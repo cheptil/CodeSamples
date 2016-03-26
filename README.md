@@ -14,7 +14,7 @@ Date of creation - 22.04.13 8:02
 
 Date of last change - 26.04.13 10:58
 
-## C
+## Pure C
 
 cachesim
 
